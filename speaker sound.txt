@@ -1,0 +1,4 @@
+speaker - full
+dfx - 80%
+pot - 35%
+Eq - Soft Rock
